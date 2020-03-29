@@ -1,4 +1,4 @@
-#  This is quick demo of how to generate test report with Allure Report
+#  This is quick demo of how to generate Protractor test report with Allure Report
 
 ## Create a node project
 
